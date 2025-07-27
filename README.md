@@ -1,0 +1,3 @@
+- FAVAR_Hist Decomposition.R replicates Figure 1 of the paper
+- ImpulseResponse.R replicates Figure 2 of the paper
+- Hist_Decomp3.R replicates Figure 3 of the paper
